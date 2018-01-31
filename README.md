@@ -1,2 +1,1 @@
-# egg_simulator
-Dropper game
+Dropper-style game created using OpenGL
